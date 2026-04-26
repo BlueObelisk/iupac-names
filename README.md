@@ -10,7 +10,10 @@ includes the IUPAC names to be part of larger names, but a valid IUPAC name by i
 Zero metadata on the origin of the IUPAC name is recorded, and just the existence that the
 IUPAC name exists is the copyright-free fact we are recording here.
 
-Our ambition is to have 1M IUPAC names within the first year.
+Our ambition was to have 1M IUPAC names within the first year. After one year, we collected
+[a bit over 280 thousand IUPAC names](https://github.com/BlueObelisk/iupac-names/blob/c71224034aa88b8e9b1838147b2ca3b732fdf1a2/iupac-names.txt)
+(mind the notes below). We also [noted in summer 2025](https://doi.org/10.59350/6f7he-kxt56)
+that by creating variations of the names with simple heuristics, we could easily create 1M names.
 
 This repository is very simple, consists of a single, sorted list of IUPAC names in the `iupac-names.txt` file.
 Each line in that file is a valid IUPAC names, as defined by [OPSIN](https://doi.org/10.1021/ci100384d)
@@ -19,7 +22,7 @@ string from it.
 
 ## Adding new names
 
-The list is sort and contains only unique names. On GNU/Linux, the reference algorithm for this
+The list is sorted and contains only unique names. On GNU/Linux, the reference algorithm for this
 process is:
 
 ```shell
