@@ -400833,6 +400833,7 @@ benzimidazol-2-acetamide
 benzimidazol-2-amine
 benzimidazol-2-aminium
 benzimidazol-2-carbamate
+benzimidazol-2-chloroacetamide
 benzimidazol-2-one
 benzimidazol-2-one-1,2,3-triazole
 benzimidazol-2-thione
@@ -436297,6 +436298,7 @@ d-3-phenyllactate
 D-3-Phenyl-lactic acid
 d-3-phenyllactic acid
 D-3-phenyllactic acid sulfate
+D-3-phosphoglycerate
 D-3-pyridylalanine
 D-4-[(2E)-3-phosphono-2-propenyl]-2-piperazine carboxylic acid
 D-4-[(2E)-3-phosphono-2-propenyl]-2-piperazinecarboxylic acid
@@ -512377,6 +512379,7 @@ L-2-naphthyl alanine
 l-2-naphthylalanine
 (L)-2-nitro-phenylalanine
 l-2-nitrotyrosine
+L-2-oxothiazolidine-4-carboxylate
 l-2-phenylglycine
 L-2-((tert-butoxycarbonyl)amino)pent-4-ynoic acid
 l-2-thienylalanine
@@ -518042,6 +518045,7 @@ lysine 1-amino-1-deoxyfructose
 lysine-2,4-dinitrophenylamide
 lysine-2HCl
 lysine-2-naphthylamine
+Lysine 2-Oxoglutarate
 lysine-4,4,5,5-d4
 lysine-(4-nitroimidazole)
 lysine-5-keto-norleucine
@@ -630445,6 +630449,7 @@ pyridoxine-5’-phosphate
 pyridoxine-5′-phosphate
 Pyridoxine‐5'‐phosphate
 pyridoxine‐5′‐phosphate
+pyridoxine alpha-ketoglutarate
 pyridoxine aspartate
 pyridoxine biotin
 pyridoxine bromide
